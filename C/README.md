@@ -52,5 +52,3 @@
 - **Days 91-95:** Plan and start working on a small C project.
 - **Days 96-98:** Refine and improve the project.
 - **Days 99-100:** Reflect on what you've learned, update your portfolio, and celebrate your progress!
-
-Adapt the plan based on your progress and interests. Explore more areas or spend extra time on topics you find challenging or particularly interesting. Good luck with your 100 Days of Code journey in C!
